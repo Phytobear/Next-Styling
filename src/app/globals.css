@@ -3,13 +3,7 @@
 @tailwind utilities;
 
 body {
-  background-color: #E76F51;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
-
-p {
-  font-family: monospace;
+  background-color: #e7e7e7;
+  margin: 0;
+  font-family: Arial, sans-serif;
 }
